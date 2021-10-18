@@ -1,0 +1,32 @@
+Padrão de projeto é um modelo de ofware . Estipulando  um  padrão  é  possibilita a reutilização do s  oftware . facilitando a manutenção . E desenvolvimento dele.
+É uma forma de definir um padrão a para o  software , sendo por meio de codigos  ou a até mesmo falas para solucionar os problemas.
+As funciolidades  devem suprir o porque  esse software foi desenvolvido.  
+A usabilidade  precisa ter uma facil utilização.  
+Eficiência  ele deve ter um nível de sempenho minímo e maxímo . Delimitadso no início do projeto. 
+Portabilidade  ele precisa ser adaptavel a qualquer ambiente  sem a necesside de outra  aplicação .
+Solid signifca os 5 princípios da programação orientada a objetos e designer de código.
+Single Responsibility Principle (Princípio da Responsabilidade Única).
+Open/Closed Principle (Princípio do Aberto/Fechado).
+Liskov Substitution Principle (Princípio da Substituição de Liskov).
+Interface Segregation Principle (Princípio da Segregação de Interfaces).
+Dependency Inversion Principle (Princípio da Inversão de Dependências).
+Os pradrões criacionais são tecnicas ultilizadas para controlar como a instância das classes serão criadas.
+E a froma de controlar a criaçã de classes inteiras. 
+Exemplos de padrões são o 
+Builder permite construir objetos difíceis passo a passo.
+Abstract Factory permite contruir famílias de objetos sem ter que especificar suas classes concretas.
+Factory Method ele fornce uma interface para você criar objetos em uma superclasse, permitindo que as subclasses alterem o tipo de objetos que serão criados.
+Prototype ele permite que você copie codigos existentes sme fazer seu código ficar dependente de suas classes. 
+Singleton é um padrão que permite você garantir que uma classe tenha apenas uma instância, essa instância tem acesso global.
+Os padrões estruturais explicam como montar objetos e classes em estruturas maiores mas ainda mantendo essas estruturas flexíveis e eficientes.
+Adapter permite a junção de objetos e interfaces incompatíveis.
+Bridge ele permite que você divida duas classes grandes em duas hierarquias seperadas que podem ser desenvolvidas independentemente um da outra.
+Composite permite que você separe algumas classes e trabalhe individualmente elas.
+Decorator permite você criar um comportamento ao objeto ao colocalo dentro de um invólucros de objeto que contém o comportamento.  
+Facade fornece uma interface simplificada para uma biblioteca ou framework.
+Flyweight permite colocar mais objetos na quantidade de RAM disponível compartilhando partes comuns de estado entre os 
+múltiplos objetos ao invés de manter todos os dados em cada objeto.
+Proxy ele permite que você forneça um subtituto ou um espaço reservado para o objeto. Controlando o acesso original ao objeto.
+Dando a opção de alterar algo antes de colocar no projeto final.
+
+
