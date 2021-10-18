@@ -11,7 +11,7 @@ Liskov Substitution Principle (Princípio da Substituição de Liskov).
 Interface Segregation Principle (Princípio da Segregação de Interfaces).
 Dependency Inversion Principle (Princípio da Inversão de Dependências).
 Os pradrões criacionais são tecnicas ultilizadas para controlar como a instância das classes serão criadas.
-E a froma de controlar a criaçã de classes inteiras. 
+E a forma de controlar a criaçã de classes inteiras. 
 Exemplos de padrões são o 
 Builder permite construir objetos difíceis passo a passo.
 Abstract Factory permite contruir famílias de objetos sem ter que especificar suas classes concretas.
