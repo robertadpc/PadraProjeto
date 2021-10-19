@@ -28,5 +28,21 @@ Flyweight permite colocar mais objetos na quantidade de RAM disponível comparti
 múltiplos objetos ao invés de manter todos os dados em cada objeto.
 Proxy ele permite que você forneça um subtituto ou um espaço reservado para o objeto. Controlando o acesso original ao objeto.
 Dando a opção de alterar algo antes de colocar no projeto final.
+Padrões comportamentais são voltados aos algoritmos e a designação de responsabilidades entre objetos.
+Chain of Responsibility é um padrão de projeto comportamental que permite que você passe pedidos por uma corrente de handlers. 
+Command é um padrão de projeto comportamental que transforma um pedido em um objeto independente que contém toda a informação sobre o pedido.
+Iterator é um padrão de projeto comportamental que permite a você percorrer elementos de uma coleção sem expor as representações dele.
+Mediator é um padrão de projeto comportamental que permite que você reduza as dependências caóticas entre objetos.
+Memento é um padrão de projeto comportamental que permite que você salve e restaure o estado anterior de um objeto sem revelar os detalhes de sua implementação. 
+Observer é um padrão de projeto comportamental que permite que você defina um mecanismo de assinatura para notificar múltiplos objetos.
+State é um padrão de projeto comportamental que permite que um objeto altere seu comportamento quando seu estado interno muda. 
+Strategy é um padrão de projeto comportamental que permite que você defina uma família de algoritmos.
+Template Method é um padrão de projeto comportamental que define o esqueleto de um algoritmo na superclasse mas deixa as subclasses sobrescreverem 
+etapas específicas do algoritmo sem modificar sua estrutura.
+O Visitor é um padrão de projeto comportamental que permite que você separe algoritmos dos objetos nos quais eles operam.
+
+
+
+
 
 
